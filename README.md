@@ -2,7 +2,7 @@
 # **Predicting High-Risk Groups for Obesity Based on Demographics and Lifestyle**
 This project is part of the Introduction to Artificial Intelligence (AAI-501-02) course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
-**-- Project Status: In-Porgress**
+**-- Project Status: In-Progress**
 
 ### Installation
 
