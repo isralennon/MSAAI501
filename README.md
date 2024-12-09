@@ -13,6 +13,9 @@ To run this project on your local machine:
    git clone https://github.com/isralennon/MSAAI501.git```
 2. Run with Jypiter: https://jupyter.org/install 
 
+## Jupyter Notebook File Location
+Our Jupyter Notebook file can be found in subfolder FinalProject under file name Obesity_Risk_Prediction_Model.ipynb.
+
 ## Project Intro/Objective
 This project aims to develop a classification model to identify individuals at high risk for obesity based on their demographic and lifestyle characteristics. By analyzing eating habits, physical activity levels, and other relevant factors, the model will predict obesity risk categories, enabling public health organizations to allocate resources more effectively and design targeted obesity prevention programs. Given the increasing rates of obesity globally and its associated health costs, an early identification tool can be instrumental in reducing public health burdens and improving individual health outcomes.
 
